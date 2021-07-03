@@ -1,10 +1,9 @@
 adfasdf
 asdfasdfasdf
 sdfasdfsdfsad
-<<<<<<< HEAD
+
 asdf
 asdfsdf
 asdfsa
-=======
+
 asdfsadfsadfsfa
->>>>>>> a5ba2cd4fc408b0add18d10120e9936082c16e22
